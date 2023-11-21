@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="240px" height="427px" viewBox="0 0 240 427" enable-background="new 0 0 240 427" xml:space="preserve">
+<g>
+	<rect width="240" height="15.729"/>
+	<rect y="15.729" fill="#542954" width="240" height="34.375"/>
+	<rect y="50.104" fill="#FFF5F5" width="240" height="49.792"/>
+	<rect y="99.896" fill="#FFFFFF" width="240" height="296.792"/>
+	<rect x="10.313" y="31.146" fill="#FFFBFF" width="103.437" height="5"/>
+	<rect x="43.125" y="61.146" fill="#006E12" width="153.75" height="5"/>
+	<rect x="79.375" y="79.896" fill="#006E12" width="81.25" height="5"/>
+	<rect x="43.125" y="138.646" fill="#2D2D2D" width="153.75" height="5"/>
+	<rect x="93.229" y="348.022" fill="#2D2D2D" width="53.542" height="5"/>
+	<rect x="10.625" y="290.208" fill="#EEEBE8" width="218.75" height="38.438"/>
+	<rect x="79.375" y="306.926" fill="#808090" width="81.25" height="5"/>
+	<rect x="11.25" y="190.834" fill="#DFDFDF" width="217.5" height="37.186"/>
+	<path fill="#C8F87C" d="M228.125,191.459v35.936H11.875v-35.936H228.125 M229.375,190.209H10.625v38.436h218.75V190.209
+		L229.375,190.209z"/>
+	<rect x="21.25" y="206.926" fill="#808080" width="139.375" height="5"/>
+	<rect x="11.25" y="240.833" fill="#DFDFDF" width="217.5" height="37.188"/>
+	<path fill="#C8F87C" d="M228.125,241.458v35.938H11.875v-35.938H228.125 M229.375,240.208H10.625v38.438h218.75V240.208
+		L229.375,240.208z"/>
+	<rect x="21.406" y="256.926" fill="#808080" width="81.25" height="5"/>
+	<g>
+		<rect y="396.688" width="240" height="30.314"/>
+		<path fill="#FFFFF0" d="M120,408.094c2.24,0,4.063,1.822,4.063,4.064c0,2.24-1.822,4.063-4.063,4.063
+			c-2.241,0-4.063-1.822-4.063-4.063C115.937,409.917,117.76,408.094,120,408.094 M120,406.844c-2.934,0-5.313,2.379-5.313,5.314
+			c0,2.934,2.378,5.313,5.313,5.313c2.934,0,5.313-2.379,5.313-5.313C125.313,409.223,122.934,406.844,120,406.844L120,406.844z"/>
+		<path fill="#FFFFF0" d="M194.063,408.094v8.125h-8.125v-8.125H194.063 M195.313,406.844h-10.625v10.625h10.625V406.844
+			L195.313,406.844z"/>
+		<path fill="#FFFFF0" d="M53.751,407.897v8.52l-6.486-4.26L53.751,407.897 M55.001,405.583l-10.013,6.574l10.013,6.576V405.583
+			L55.001,405.583z"/>
+	</g>
+</g>
+</svg>

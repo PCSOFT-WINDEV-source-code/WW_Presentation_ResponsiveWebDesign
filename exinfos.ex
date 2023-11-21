@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WW_Presentation_ResponsiveWebDesign
+image=description.gif
+description=description.rtf
+source=0
+typesite=0
+[OBJECT]
+WW_Presentation_ResponsiveWebDesign.wwp=4096
